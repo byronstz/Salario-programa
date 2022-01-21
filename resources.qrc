@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>recursos/salario.png</file>
+    </qresource>
+</RCC>
